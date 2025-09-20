@@ -5,7 +5,7 @@
 ### Block 1: Arrays - Core Two Pointers & Hashing (Approx. 3h 55m)
 
 - **Study Questions:**
-  - [ ] Two Sum (Easy)
+  - [x] Two Sum (Easy)
   - [ ] Container With Most Water (Medium)
   - [ ] Merge Sorted Array (Easy)
 - **Practice Questions:**
