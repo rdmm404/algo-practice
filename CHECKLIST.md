@@ -6,13 +6,13 @@
 
 - **Study Questions:**
   - [x] Two Sum (Easy)
-  - [ ] Container With Most Water (Medium)
-  - [ ] Merge Sorted Array (Easy)
+  - [x] Container With Most Water (Medium)
+  - [x] Merge Sorted Array (Easy)
 - **Practice Questions:**
-  - [ ] Contains Duplicate (Easy)
-  - [ ] Squares of a Sorted Array (Easy)
-  - [ ] Move Zeroes (Easy)
-  - [ ] Remove Duplicates from Sorted Array (Easy)
+  - [x] Contains Duplicate (Easy)
+  - [x] Squares of a Sorted Array (Easy)
+  - [x] Move Zeroes (Easy)
+  - [x] Remove Duplicates from Sorted Array (Easy)
 
 ### Block 2: Arrays - Subarray Sums & Kadane's Variants (Approx. 3h 55m)
 
