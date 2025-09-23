@@ -18,8 +18,8 @@
 
 - **Study Questions:**
   - [x] Best Time to Buy and Sell Stock (Easy)
-  - [ ] Maximum Subarray (Medium)
-  - [ ] Minimum Size Subarray Sum (Medium)
+  - [x] Maximum Subarray (Medium)
+  - [x] Minimum Size Subarray Sum (Medium)
 - **Practice Questions:**
   - [ ] Majority Element (Easy)
   - [ ] Subarray Sum Equals K (Medium)
