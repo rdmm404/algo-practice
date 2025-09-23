@@ -17,7 +17,7 @@
 ### Block 2: Arrays - Subarray Sums & Kadane's Variants (Approx. 3h 55m)
 
 - **Study Questions:**
-  - [ ] Best Time to Buy and Sell Stock (Easy)
+  - [x] Best Time to Buy and Sell Stock (Easy)
   - [ ] Maximum Subarray (Medium)
   - [ ] Minimum Size Subarray Sum (Medium)
 - **Practice Questions:**
